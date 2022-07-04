@@ -1,1 +1,2 @@
-# dealloyed-metallic-glass-surface-machine-learning
+# dealloyed_metallic_glass_surface_machine_learning
+Spatial location modeling algorithm for lithium sulfide adsorption atom
